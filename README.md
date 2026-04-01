@@ -16,7 +16,7 @@ Analyzes a project idea and recommends the right Claude Code infrastructure — 
 
 **Install:**
 ```bash
-git clone --filter=blob:none --sparse https://github.com/jasonzhang443/JasonAndClaude.git && cd JasonAndClaude && git sparse-checkout set skills/buildwithclaude-v1 && cp -r skills/buildwithclaude-v1 ~/.claude/skills/buildwithclaude
+cp -r skills/buildwithclaude-v1 ~/.claude/skills/buildwithclaude
 ```
 
 **Usage:**
@@ -32,7 +32,7 @@ An updated version of buildwithclaude with domain-specific recommendations. Iden
 
 **Install:**
 ```bash
-git clone --filter=blob:none --sparse https://github.com/jasonzhang443/JasonAndClaude.git && cd JasonAndClaude && git sparse-checkout set skills/buildwithclaude-v2 && cp -r skills/buildwithclaude-v2 ~/.claude/skills/buildwithclaude2
+cp -r skills/buildwithclaude-v2 ~/.claude/skills/buildwithclaude2
 ```
 
 **Usage:**
