@@ -1,6 +1,6 @@
 # JasonAndClaude
 
-A collection of my Claude Skills and recommended global instructions that I find actually useful. 
+A collection of my Claude Skills and recommended global instructions that I find actually useful (works with other LLMs). 
 
 ```bash
 git clone https://github.com/jasonzhang443/JasonAndClaude.git
