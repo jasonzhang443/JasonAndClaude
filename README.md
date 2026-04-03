@@ -1,10 +1,20 @@
 # JasonAndClaude
 
-A collection of my Claude Skills and Public Skills that I find actually useful.
+A collection of my Claude Skills and recommended global instructions that I find actually useful. 
 
 ```bash
 git clone https://github.com/jasonzhang443/JasonAndClaude.git
 ```
+---
+# Recommended global instructions / preferences
+
+`Before any iterations to improve a skill or agent, ask me first to reduce unnessary token usage`
+
+`DO NOT USE: emojis, em-dashes, '`
+
+---
+
+# Skills:
 
 ### buildwithclaude
 
