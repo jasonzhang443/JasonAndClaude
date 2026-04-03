@@ -14,6 +14,10 @@ Analyzes a project idea and recommends the right Claude Code infrastructure — 
 
 An updated version of buildwithclaude with domain-specific recommendations. Identifies your project domain (web, mobile, ML/AI, DevOps, game dev, blockchain, embedded, etc.) and gives tailored plugin recommendations, subagent patterns, hook strategies, and a folder structure.
 
-### Skill-Creator
+### product-self-knowledge
+
+Cover Anthropic's products using offical docs
+
+### skill-creator
 
 [skill-creator](https://claude.com/plugins/skill-creator) - Anthropic's offical skill creator
